@@ -1,0 +1,29 @@
+{
+  "name": "rehearse-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdev-ashishk/rehearse-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdev-ashishk/rehearse-react/issues"
+  },
+  "homepage": "https://github.com/webdev-ashishk/rehearse-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
