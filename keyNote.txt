@@ -1,0 +1,14 @@
+Q: Hook Rules!
+A: 1. You much import hook from react
+   2. Hooks can only be called  inside RFC(react function component)
+   3. Hooks are called only Top level of a Component.
+   4. Hooks can not be conditional
+   
+
+   useState HOOK syntex:
+   
+     const[count ,setcount]=useState(0);
+     count=>state variable
+     setcount is funtion which will used for update count
+     useState => returns array with two elements
+
